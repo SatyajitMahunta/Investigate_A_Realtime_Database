@@ -1,4 +1,4 @@
-#Investigate a Relational Database :
+# Investigate a Relational Database :
 I used SQL to explore a database related to movie rentals. I wrote SQL code to run SQL queries and answer questions about the database.
 
 The project end-result is a presentation of four slides. Each slide:
@@ -12,8 +12,8 @@ The four questions of interest are:
 What is the distribution of family-friendly movies among the film categories and rental duration categories ?
 How does the two stores compare in their count of rental orders ?
 Who are the top 10 paying customers ? How many did each paid in total ?
-##Software requirements
+## Software requirements
 You should have SQL and PowerPoint
 
-##Credits
+## Credits
 Thanks to the Udacity team for this great project!
